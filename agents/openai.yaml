@@ -1,0 +1,7 @@
+interface:
+  display_name: "Architecture & Tech Recommender"
+  short_description: "Evaluates architectural and software choices with comparison matrices"
+  default_prompt: "Use $arch-recommend to evaluate technical options and provide a recommendation."
+
+policy:
+  allow_implicit_invocation: false
